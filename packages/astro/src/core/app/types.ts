@@ -40,7 +40,6 @@ export type SSRManifest = {
 	base: string;
 	compressHTML: boolean;
 	assetsPrefix?: string;
-	markdown: MarkdownRenderingOptions;
 	renderers: SSRLoadedRenderer[];
 	/**
 	 * Map of directive name (e.g. `load`) to the directive script code
