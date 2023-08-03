@@ -1,4 +1,3 @@
-import type { MarkdownRenderingOptions } from '@astrojs/markdown-remark';
 import type { AstroSettings, RuntimeMode, SSRLoadedRenderer } from '../../@types/astro';
 import type { LogOptions } from '../logger/core.js';
 import type { ModuleLoader } from '../module-loader';

@@ -1,4 +1,3 @@
-import type { MarkdownRenderingOptions } from '@astrojs/markdown-remark';
 import type {
 	RouteData,
 	SerializedRouteData,
